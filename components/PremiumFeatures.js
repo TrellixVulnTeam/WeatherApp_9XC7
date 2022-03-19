@@ -61,6 +61,10 @@ export default function PremiumFeatures({ onPress, title }) {
         console.log("error", err);
       });
   };
+  useEffect(() => {
+    fetchByPostalHandler1();
+    fetchByPostalHandler();
+  }, [lat, lat1]);
   const handleSearch = () => {
     fetchByPostalHandler1();
     fetchByPostalHandler();
@@ -78,10 +82,10 @@ export default function PremiumFeatures({ onPress, title }) {
       .catch((err) => {
         console.log("error", err);
       });
-  }, [lat]);
+  }, [lat, long, postalCode]);
   useEffect(() => {
     fetch(
-      `https://api.openweathermap.org/data/2.5/onecall?lat=${lat1}&lon=${long}&exclude=hourly,minutely&units=metric&appid=${openWeatherKey}`,
+      `https://api.openweathermap.org/data/2.5/onecall?lat=${lat1}&lon=${long1}&exclude=hourly,minutely&units=metric&appid=${openWeatherKey}`,
       { signal }
     )
       .then((res) => res.json())
@@ -91,7 +95,7 @@ export default function PremiumFeatures({ onPress, title }) {
       .catch((err) => {
         console.log("error", err);
       });
-  }, [lat1]);
+  }, [lat1, long1, postalCode1]);
 
   return (
     <Container>
