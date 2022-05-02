@@ -5,11 +5,9 @@
 React Native, Expo, Styled-Components
 
 
-## How To Run The App in an IOS Simulator
-
 #### Step 1: 
 - Clone the repo
-- Open it in your favorite editor
+- Open it in your editor
 - Open a terminal in your editor and run `yarn install`
 
 #### Step 2: 
