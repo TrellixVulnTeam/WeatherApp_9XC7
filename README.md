@@ -2,7 +2,7 @@
 
 ## Tech Used
 
-React Native, Expo, Styled-Components
+React Native, Expo, Styled-Components, CSS
 
 
 #### Step 1: 
