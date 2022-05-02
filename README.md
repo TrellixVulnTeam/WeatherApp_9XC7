@@ -51,13 +51,13 @@ GOOGLE_KEY=YourGoogleKeyHere
   
 #### Screenshots:
   
+
 <img width="384" alt="home" src="https://user-images.githubusercontent.com/93395352/166295455-408d99cc-5461-4819-b4cc-9465d9642930.png">
 
 <img width="384" alt="home2" src="https://user-images.githubusercontent.com/93395352/166295690-ba2ca82b-0eaf-40cc-a175-8a6dcd3dea03.png">
 
 <img width="384" alt="drawer" src="https://user-images.githubusercontent.com/93395352/166295750-271e5506-3350-4671-8e71-5230242be2a1.png">
 
-<img width="384" alt="drawer" src="https://user-images.githubusercontent.com/93395352/166295750-271e5506-3350-4671-8e71-5230242be2a1.png">
 
 <img width="384" alt="compare" src="https://user-images.githubusercontent.com/93395352/166295855-a8d30b03-8f17-4e1c-9ebc-d02f9cc76ba0.png">
 
