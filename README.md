@@ -51,15 +51,19 @@ GOOGLE_KEY=YourGoogleKeyHere
   
 #### Screenshots:
   
+<img width="384" alt="home" src="https://user-images.githubusercontent.com/93395352/166295455-408d99cc-5461-4819-b4cc-9465d9642930.png">
 
-![home](https://user-images.githubusercontent.com/93395352/166293956-a7155236-e860-4813-8556-78643adf8263.jpg)
+<img width="384" alt="home2" src="https://user-images.githubusercontent.com/93395352/166295690-ba2ca82b-0eaf-40cc-a175-8a6dcd3dea03.png">
 
-![home2](https://user-images.githubusercontent.com/93395352/166294020-638849be-f92a-42ca-9bd6-a6b1a0c846ca.jpg)
+<img width="384" alt="drawer" src="https://user-images.githubusercontent.com/93395352/166295750-271e5506-3350-4671-8e71-5230242be2a1.png">
 
-![drawer](https://user-images.githubusercontent.com/93395352/166294033-bc7daf9c-de71-4e2b-b7e7-26c83a740945.jpg)
+<img width="384" alt="drawer" src="https://user-images.githubusercontent.com/93395352/166295750-271e5506-3350-4671-8e71-5230242be2a1.png">
 
-![compare](https://user-images.githubusercontent.com/93395352/166294109-2f4296b1-983c-4ad6-90f5-5d76d4848aab.jpg)
-![payment](https://user-images.githubusercontent.com/93395352/166294129-ba4b7443-7b32-4b60-9d55-405a1a6d7d79.jpg)
-![profile](https://user-images.githubusercontent.com/93395352/166294146-0a736b8c-8055-464d-9c99-aa781187028b.jpg)
+<img width="384" alt="compare" src="https://user-images.githubusercontent.com/93395352/166295855-a8d30b03-8f17-4e1c-9ebc-d02f9cc76ba0.png">
+
+<img width="384" alt="payment" src="https://user-images.githubusercontent.com/93395352/166295969-faf8086e-7f13-4177-bec7-972c83ef64be.png">
+
+<img width="384" alt="profile" src="https://user-images.githubusercontent.com/93395352/166296009-c9e240b5-313e-4953-b9c4-561c1634c16e.png">
+
 <img width="384" alt="camera" src="https://user-images.githubusercontent.com/93395352/166294177-f70d75b5-9d54-416a-9ffe-53d6692e0fe9.png">
 
